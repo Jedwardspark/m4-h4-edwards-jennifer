@@ -1,0 +1,35 @@
+body {
+    background-color: cornsilk; 
+    color:blue; 
+    max-width: 900px;
+    margin:auto;
+}
+
+header {
+    margin: 35px 0;
+    font-size: 20px;
+}
+
+ section.jumbotron {
+    text-align: center;
+ }
+
+ a {color:darkblue;
+}
+p {text-align: center;
+}
+
+h1, h2 {color: blueviolet;
+}
+header nav a {
+    display: block;
+    text-align:center;
+}
+footer {
+    margin: 50px 0;
+    text-align: center;
+}
+div p {color: crimson;}
+
+
+
