@@ -12,7 +12,21 @@ header {
 
  section.jumbotron {
     text-align: center;
-    background-image: url("https: //picsum .photos/ 900px / 600px;"); 
+ }
 
- a {color:darkblue
+ a {color:darkblue;
 }
+p {text-align: center;
+}
+
+h1, h2 {color: blueviolet;
+}
+header nav a {
+    display: block;
+    text-align:center;
+}
+footer {
+    margin: 50px 0;
+    text-align: center;
+}
+div p {color: crimson;}
